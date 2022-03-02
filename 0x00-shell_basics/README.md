@@ -8,3 +8,4 @@ mkdir in /tmp folder
 move that file
 delete file
 previous directory
+lists
