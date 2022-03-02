@@ -10,3 +10,4 @@ delete file
 previous directory
 lists
 file type
+moving files with uppercase
