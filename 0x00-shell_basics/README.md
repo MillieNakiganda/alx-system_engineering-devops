@@ -7,3 +7,4 @@ list files digigts
 mkdir in /tmp folder
 move that file
 delete file
+previous directory
