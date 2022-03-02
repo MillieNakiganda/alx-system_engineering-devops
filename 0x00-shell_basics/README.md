@@ -3,3 +3,4 @@ listing tasks
 change working diretcory to home
 list files in long format
 list all hidden files in long format
+list files digigts
