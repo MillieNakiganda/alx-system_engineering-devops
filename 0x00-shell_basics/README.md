@@ -9,3 +9,4 @@ move that file
 delete file
 previous directory
 lists
+file type
