@@ -5,3 +5,4 @@ list files in long format
 list all hidden files in long format
 list files digigts
 mkdir in /tmp folder
+move that file
